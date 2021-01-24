@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "545889994929",
+    "firebase_url": "https://moction-2c7de.firebaseio.com",
+    "project_id": "moction-2c7de",
+    "storage_bucket": "moction-2c7de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545889994929:android:b940598c9e8b577f",
+        "android_client_info": {
+          "package_name": "comprofile.wixsite.motrixofficial.moction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545889994929-3irlbc62ioihphhag2o5rvkc36gbfbin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALgHqSpDEJZ7gM1k71F8V-wc7gdeAV3M8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

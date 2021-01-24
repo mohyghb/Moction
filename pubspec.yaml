@@ -1,0 +1,41 @@
+name: moction
+description: A new Flutter application.
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  firebase_auth: ^0.8.4
+  firebase_database: ^2.0.3
+  async: ^2.1.0
+  path_provider: ^1.0.0
+  pdf: ^1.3.8
+  permission_handler: ^3.0.1
+  flutter_page_indicator: ^0.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+
+flutter:
+
+
+  uses-material-design: true
+
+  fonts:
+    - family: QucikSandLight
+      fonts:
+        - asset: fonts/Quicksand-Light.ttf
+        - weight: 300
+    - family: QuickSandRegular
+      fonts:
+        - asset: fonts/Quicksand-Regular.ttf
+        - weight: 400
